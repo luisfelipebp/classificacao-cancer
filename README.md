@@ -53,9 +53,9 @@ DecisionTreeClassifier(criterion="entropy", max_depth=3, random_state=7)
 - Validação cruzada: **89.99%**
 
 ## 🏆 Conclusões Principais
-| Modelo            | Acurácia Treino/Teste | Validação Cruzada | Observações                           |
-|--------------------|-----------------------|-------------------|---------------------------------------|
-| **SVM**            | 95.32% 🥇            | 95.60%            | Melhor desempenho geral               |
-| **Regressão Logística** | 94.74% 🥈         | 91.92%            | Boa relação desempenho/interpretabilidade |
-| **Naive Bayes**    | 92.98% 🥉            | 90.95%            | Rápido, mas menor precisão            |
-| **Árvore de Decisão** | 91.81%/93.72%      | 89.99%           | Tendência a overfitting (diferença treino-teste) |
+| Modelo            | Acurácia Treino/Teste | Validação Cruzada | 
+|--------------------|-----------------------|-------------------|
+| **SVM**            | 95.32% 🥇            | 95.60%            |
+| **Regressão Logística** | 94.74% 🥈         | 91.92%            | 
+| **Naive Bayes**    | 92.98% 🥉            | 90.95%            |
+| **Árvore de Decisão** | 91.81%/93.72%      | 89.99%           | 
